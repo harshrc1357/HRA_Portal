@@ -1,4 +1,4 @@
-# InfoViz_HRA-Project_JP-AV-HL-SK-HC
+# HRA Portal
 
 Here are the links to our dataset and the PowerBi visual Dashboard
 
