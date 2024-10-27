@@ -1,0 +1,91 @@
+page_location,page_location_description,page_location_detail,page_location_version
+https://apps.humanatlas.io/eui/,Exploration User Interface (EUI),,
+https://apps.humanatlas.io/rui/,Registration User Interface (RUI),,
+https://apps.humanatlas.io/us2/,User Story 2: Predicting 3D Spatial Origins of Tissue Samples,,
+https://apps.humanatlas.io/us1/,User Story 1: Improving Cell Type Annotations,,
+https://apps.humanatlas.io/ftu-explorer/,Functional Tissue Unit Explorer,,
+https://apps.humanatlas.io/api/eui/,Exploration User Interface (EUI),,
+http://apps.humanatlas.io/eui/,Exploration User Interface (EUI),,
+https://apps.humanatlas.io/eui/index.html,Exploration User Interface (EUI),,
+https://humanatlas.io/,Homepage/Portal,,
+https://humanatlas.io/omap,Organ Mapping Antibody Panels (OMAPs),,
+https://humanatlas.io/asctb-tables,"Anatomical Structures, Cell Types, and Biomarkers (ASCT+B) Tables",,
+https://humanatlas.io/3d-reference-library?version=2.0&organ=Blood%20Vasculature,3D Reference Object Library,Blood Vasculature,2
+https://humanatlas.io/release-notes/v2.0,6th Release Notes,,2
+https://humanatlas.io/overview-use-the-hra,Use the HRA,,
+https://humanatlas.io/asctb-reporter,"Anatomical Structures, Cell Types, and Biomarkers (ASCT+B) Tables",,
+https://humanatlas.io/2d-ftu-illustrations?version=2.0&organ=Kidney,Functional Tissue Unit Explorer,Kidney,2
+https://humanatlas.io/3d-reference-library,3D Reference Object Library,,
+https://humanatlas.io/user-story/2,Predict 3D Spatial Origin of Tissue Samples,,
+https://humanatlas.io/overview-data,Use the HRA,,
+https://humanatlas.io/vccf,Vasculature Common Coordinate Framework,,
+https://humanatlas.io/ccf-ontology,Common Coordinate Framework Ontology,,
+https://humanatlas.io/user-story/1,Improve Cell Type Annotations,,
+https://humanatlas.io/cell-population-graphs,Cell Population Graphs,,
+https://humanatlas.io/overview-tools,Use the HRA,,
+https://humanatlas.io/exploration-user-interface,Exploration User Interface (EUI),,
+https://humanatlas.io/standard-operating-procedures,Human Reference Atlas Standard Operating Procedures,,
+https://humanatlas.io/millitome,Millitome,,
+https://humanatlas.io/asctb-azimuth,"Anatomical Structures, Cell Types, and Biomarkers (ASCT+B) Tables",,
+https://humanatlas.io/registration-user-interface,Registration User Interface (RUI),,
+https://humanatlas.io/organ-gallery-in-vr,Organ Gallery in VR,,
+https://humanatlas.io/3d-reference-library?version=2.0&organ=All%20Organs,3D Reference Object Library,All Organs,2
+https://humanatlas.io/user-story/3,Explore Biomarker Expressions for Cell Types,,
+https://humanatlas.io/api,Application Programming Interfaces (APIs),,
+https://humanatlas.io/team,About the Team,,
+https://humanatlas.io/release-notes/v1.4,5th Release Notes,,1.4
+https://humanatlas.io/3d-reference-library?version=2.0&organ=Allen%20Brain,3D Reference Object Library,Allen Brain,2
+https://humanatlas.io/overview-training-outreach,Human Reference Atlas Training & Outreach,,
+https://humanatlas.io/2d-ftu-illustrations?version=2.0&organ=Lung,Functional Tissue Unit Explorer,Lung,2
+https://humanatlas.io/faq/omap,Organ Mapping Antibody Panels (OMAPs),,
+https://humanatlas.io/2d-ftu-illustrations,Functional Tissue Unit Explorer,,
+https://humanatlas.io/kaggle-one,Kaggle #1: HuBMAP - Hacking the Kidney,,
+https://humanatlas.io/2d-ftu-illustrations?version=2.0&organ=Large%20Intestine,Functional Tissue Unit Explorer,Large Intestine,2
+http://humanatlas.io/,Homepage/Portal,,
+https://humanatlas.io/2d-ftu-illustrations?version=2.0&organ=Skin,Functional Tissue Unit Explorer,Skin,2
+https://humanatlas.io/3d-reference-library?version=2.0&organ=Heart,3D Reference Object Library,Heart,2
+https://humanatlas.io/3d-reference-library?version=2.0&organ=Lung,3D Reference Object Library,Lung,2
+https://humanatlas.io/3d-reference-library?version=2.0&organ=Kidney,3D Reference Object Library,Kidney,2
+https://humanatlas.io/3d-reference-library?version=2.0&organ=Skin,3D Reference Object Library,Skin,2
+https://humanatlas.io/3d-reference-library?version=2.0&organ=Spleen,3D Reference Object Library,Spleen,2
+https://humanatlas.io/2d-ftu-illustrations?version=2.0&organ=Thymus,Functional Tissue Unit Explorer,Thymus,2
+https://humanatlas.io/2d-ftu-illustrations?version=2.0&organ=Prostate,Functional Tissue Unit Explorer,Prostate,2
+https://humanatlas.io/kaggle-two,Kaggle #2: HuBMAP + HPA - Hacking the Human Body,,
+https://humanatlas.io/3d-reference-library?version=2.0&organ=Placenta,3D Reference Object Library,Placenta,2
+https://humanatlas.io/2d-ftu-illustrations?version=2.0&organ=Pancreas,Functional Tissue Unit Explorer,Pancreas,2
+https://humanatlas.io/3d-reference-library?version=2.0&organ=Ureter,3D Reference Object Library,Ureter,2
+https://humanatlas.io/2d-ftu-illustrations?version=2.0&organ=Liver,Functional Tissue Unit Explorer,Liver,2
+https://humanatlas.io/3d-reference-library?version=2.0&organ=Urinary%20Bladder,3D Reference Object Library,Urinary Bladder,2
+https://humanatlas.io/3d-reference-library?version=2.0&organ=Large%20Intestine,3D Reference Object Library,Large Intestine,2
+https://humanatlas.io/3d-reference-library?version=1.4&organ=Lymph%20Node,3D Reference Object Library,Lymph Node,1.4
+https://humanatlas.io/3d-reference-library?version=1.4&organ=Liver,3D Reference Object Library,Liver,1.4
+https://humanatlas.io/3d-reference-library?version=2.0&organ=Liver,3D Reference Object Library,Liver,2
+https://humanatlas.io/3d-reference-library?version=2.0&organ=Knee,3D Reference Object Library,Knee,2
+https://humanatlas.io/2d-ftu-illustrations?version=2.0&organ=Spleen,Functional Tissue Unit Explorer,Spleen,2
+https://humanatlas.io/release-notes/v1.3,4th Release Notes,,1.3
+https://humanatlas.io/3d-reference-library?version=1.2&organ=Lungs,3D Reference Object Library,Lungs,1.2
+https://humanatlas.io/2d-ftu-illustrations?version=2.0&organ=Small%20Intestine,Functional Tissue Unit Explorer,Small Intestine,2
+https://humanatlas.io/3d-reference-library?version=2.0&organ=Eye,3D Reference Object Library,Eye,2
+https://humanatlas.io/3d-reference-library?version=2.0&organ=Mammary%20Gland,3D Reference Object Library,Mammary Gland,2
+https://humanatlas.io/editorial-board,Human Reference Atlas Editorial Board,,
+https://humanatlas.io/3d-reference-library?version=1.4&organ=Lung,3D Reference Object Library,Lung,1.4
+https://humanatlas.io/3d-reference-library?version=1.4&organ=Large%20Intestine,3D Reference Object Library,Large Intestine,1.4
+https://humanatlas.io/3d-reference-library?version=2.0&organ=Prostate,3D Reference Object Library,Prostate,2
+https://humanatlas.io/3d-reference-library?version=2.0&organ=Thymus,3D Reference Object Library,Thymus,2
+https://humanatlas.io/3d-reference-library?version=1.4&organ=Blood%20Vasculature,3D Reference Object Library,Blood Vasculature,1.4
+https://humanatlas.io/3d-reference-library?version=2.0&organ=Uterus,3D Reference Object Library,Uterus,2
+https://humanatlas.io/3d-reference-library?version=1.2&organ=Blood%20Vasculature,3D Reference Object Library,Blood Vasculature,1.2
+https://humanatlas.io/3d-reference-library?version=2.0&organ=Small%20Intestine,3D Reference Object Library,Small Intestine,2
+https://humanatlas.io/release-notes/v1.5,Homepage/Portal,,1.5
+https://humanatlas.io/3d-reference-library?version=2.0&organ=Spinal%20Cord,3D Reference Object Library,Spinal Cord,2
+https://humanatlas.io/2d-ftu-illustrations?version=1.4&organ=Kidney,Functional Tissue Unit Explorer,Kidney,1.4
+https://humanatlas.io/3d-reference-library?version=2.0&organ=Bone%20Marrow,3D Reference Object Library,Bone Marrow,2
+http://humanatlas.io/vccf,Vasculature Common Coordinate Framework,,
+http://humanatlas.io/omap,Organ Mapping Antibody Panels (OMAPs),,
+https://humanatlas.io/3d-reference-library?version=2.0&organ=Larynx,3D Reference Object Library,Larynx,2
+https://humanatlas.io/2d-ftu-illustrations?version=1.2&organ=Kidney,Functional Tissue Unit Explorer,Kidney,1.2
+https://humanatlas.io/3d-reference-library?version=1.2&organ=Skin,3D Reference Object Library,Skin,1.2
+https://humanatlas.io/3d-reference-library?version=2.0&organ=Pancreas,3D Reference Object Library,Pancreas,2
+https://humanatlas.io/3d-reference-library?version=2.0&organ=Fallopian%20Tube,3D Reference Object Library,Fallopian Tube,2
+https://humanatlas.io/2d-ftu-illustrations?version=1.3&organ=Kidney,Functional Tissue Unit Explorer,Kidney,1.3
+https://humanatlas.io/3d-reference-library?version=2.0&organ=Trachea,3D Reference Object Library,Trachea,2
